@@ -11,11 +11,6 @@
 		font-family: "Lato", Ariel, Tahoma, Ubuntu;
 	}
 
-	.ad {
-		height: 90px;
-		position: relative;
-	}
-
 	.url {
 		width: 600px;
 		margin: 40px auto;
@@ -27,17 +22,6 @@
 	</style>
 </head>
 <body>
-	<section class="ad">
-		<script type="text/javascript"> 
-			var clickyab_ad = clickyab_ad || []; 
-			clickyab_ad['id'] = 3331419109644; 
-			clickyab_ad['domain'] = 'chakosh.ir'; 
-			clickyab_ad['slot'] = 92126346383;
-			clickyab_ad['width'] = 728;
-			clickyab_ad['height'] = 90;
-		</script>
-		<script type="text/javascript" src="http://a.clickyab.com/show.js"></script>
-	</section>
 	<section class="url">
 	<div class="row">
 		<h1 class="text-center">
